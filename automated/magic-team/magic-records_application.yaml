@@ -6,7 +6,7 @@ activities:
       links:
       - title: 2022-02-02 Threat Modeling Magic
         url: 
-          https://pagel-team-xbbaqjrbqjmj.atlassian.net/spaces/MR/pages/393525/2022-02-02+Threat+Modeling+Magic
+          https://pagel-team-xbbaqjrbqjmj.atlassian.net/wiki/spaces/MR/pages/393525/2022-02-02+Threat+Modeling+Magic
       title: 2022-02-02 Threat Modeling Magic
 apiVersion: '1'
 kind: application

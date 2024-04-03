@@ -6,7 +6,7 @@ activities:
       links:
       - title: Kuberentes Infrastructure as Code
         url: 
-          https://pagel-team-xbbaqjrbqjmj.atlassian.net/spaces/EK/pages/426314/Kuberentes+Infrastructure+as+Code
+          https://pagel-team-xbbaqjrbqjmj.atlassian.net/wiki/spaces/EK/pages/426314/Kuberentes+Infrastructure+as+Code
       title: Kuberentes Infrastructure as Code
 apiVersion: '1'
 kind: application

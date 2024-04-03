@@ -6,13 +6,13 @@ activities:
       links:
       - title: '2024-10-01'
         url: 
-          https://pagel-team-xbbaqjrbqjmj.atlassian.net/spaces/NoMapping/pages/65703/2024-10-01
+          https://pagel-team-xbbaqjrbqjmj.atlassian.net/wiki/spaces/NoMapping/pages/65703/2024-10-01
       title: '2024-10-01'
     - date: '2024-09-01'
       links:
       - title: '2024-09-01'
         url: 
-          https://pagel-team-xbbaqjrbqjmj.atlassian.net/spaces/NoMapping/pages/393563/2024-09-01
+          https://pagel-team-xbbaqjrbqjmj.atlassian.net/wiki/spaces/NoMapping/pages/393563/2024-09-01
       title: '2024-09-01'
 apiVersion: '1'
 kind: application
