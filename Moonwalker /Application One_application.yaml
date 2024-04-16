@@ -1,0 +1,12 @@
+activities:
+  Source Control Protection:
+    components:
+      - url: "https://github.com/XXX"
+        date: 2024-04-04
+      - date: 2024-04-04
+        url: "https://github.com/XXX2"
+apiVersion: '1'
+kind: application
+settings:
+  application: Application One
+  team: Moonwalker
